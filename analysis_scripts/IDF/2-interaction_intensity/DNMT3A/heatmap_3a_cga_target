@@ -1,0 +1,4 @@
+itype chain_a chain_b resname_a resname_b Type pairwise pair_freq pair_freq_wo_flip
+hbond A C Arg836 (+1) 3A:CGA Arg836-(+1) 569 569
+hbond A C Arg836 (+2) 3A:CGA Arg836-(+1) NaN NaN
+hbond A C Arg836 (+3) 3A:CGA Arg836-(+1) NaN NaN

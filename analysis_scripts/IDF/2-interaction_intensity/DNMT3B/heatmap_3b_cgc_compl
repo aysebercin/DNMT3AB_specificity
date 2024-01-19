@@ -1,0 +1,5 @@
+itype chain_a chain_b resname_a resname_b Type pairwise pair_freq pair_freq_wo_flip
+hbond A B Lys777 (+2') 3B:CGC Lys777-(+2') 540 540
+hbond A B Asn779 (+2') 3B:CGC Asn779-(+2') 523 523
+hbond A B Asn779 (+3') 3B:CGC Asn779-(+3') 1005 1005
+hbond A B Ser778 (+3') 3B:CGC Ser778-(+3') NaN NaN
