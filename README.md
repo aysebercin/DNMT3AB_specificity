@@ -1,1 +1,1 @@
-# Human de novo DNA-methyltransferase selectivity is regulated by a base-specific hydrogen bonding network ![image](https://github.com/aysebercin/DNM3AB_specificity/assets/46375571/0c4cdc27-31e9-41e0-8707-731fd3a554d5)
+# Human de novo DNA-methyltransferase selectivity is regulated by a base-specific hydrogen bonding network
