@@ -7,7 +7,7 @@ To perform a comparative analysis of our simulation sets, we present an interact
 
 <img width="992" alt="IDF" src="https://github.com/aysebercin/DNM3AB_specificity/assets/46375571/61797317-28a1-4362-9174-93185f77bdc3">
 
-Figure 1: An interaction dynamics framework (IDF) to identify DNMT3 selectivity. IDF aims to evaluate intermolecular interactions between protein and DNA, in terms of base-specific hydrogen bonds. Global interaction analysis of base-specific hydrogen bonds show the probability distributions of the number of h-bonds formed in each conformation generated during MD. Residue level flanking nucleotide – amino acid interactions show the mean hydrogen bonding capacity between observed amino acid-nucleotide pairs. Atom level flanking nucleotide – amino acid interactions plotted as frequency bar graphs.
+**Figure 1:** An interaction dynamics framework (IDF) to identify DNMT3 selectivity. IDF aims to evaluate intermolecular interactions between protein and DNA, in terms of base-specific hydrogen bonds. Global interaction analysis of base-specific hydrogen bonds show the probability distributions of the number of h-bonds formed in each conformation generated during MD. Residue level flanking nucleotide – amino acid interactions show the mean hydrogen bonding capacity between observed amino acid-nucleotide pairs. Atom level flanking nucleotide – amino acid interactions plotted as frequency bar graphs.
 
 ## Repository Structure
 
