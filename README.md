@@ -1,4 +1,5 @@
-# A dynamic hydrogen bonding network regulates the flanking sequence preference of human de novo DNA methyltransferases
+# A direct readout mechanism defines the sequence selectivity of human de novo DNA methyltransferases
+
 
 In mammals, de novo DNA methylation is essential to embryonic development, reprogramming, and gene regulation. The de novo DNA methylation is directed by DNMT3A and DNMT3B enzymes and mainly exerted on CpG islands. Over their enzymatic domains, DNMT3A/B proteins share over 90% of sequence similarity. Even so, DNMT3A predominantly methylates the first cytosine in the CGC and CGT motifs, while DNMT3B prefers the CGG and CGA sequences. To elucidate the mechanistic basis of these selective methylation profiles, we performed extensive molecular dynamics simulations of DNMT3A/B enzymes bound to all possible CGX[C/G/T/A] motifs. For each complex, we performed 2 µs long molecular dynamics (MD) simulations under AMBER parmbsc1 force-field. Afterwards, we calculated the differential base-specific hydrogen bonding profiles of the systems.
 
