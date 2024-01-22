@@ -1,5 +1,0 @@
-itype chain_a chain_b resname_a resname_b Type pairwise pair_freq pair_freq_wo_flip
-hbond A B Asn779 (+2') 3B:CGG Asn779-(+2') 1215 1215
-hbond A B Asn779 (+3') 3B:CGG Asn779-(+3') 407 407
-hbond A B Lys777 (+3') 3B:CGG Lys777-(+3') NaN NaN
-hbond A B Ser778 (+3') 3B:CGG Ser778-(+3') NaN NaN
