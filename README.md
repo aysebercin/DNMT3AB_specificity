@@ -19,9 +19,9 @@ The repository is organized into the following main folders:
 
 **2. Movies:** includes movies of molecular dynamics (MD) simulation trajectories of DNMT3A-CGC (cognate) and DNMT3B-CGG (cognate) complexes.
  
-**3.	Simulation_parameters:** includes .mdp files that defines simulation parameters for each energy minimization step and production run of our molecular dynamics simulations.
+**3.	Simulation_parameters:** includes .mdp files that defines simulation parameters for each energy minimization step and production run of our MD simulations.
  	
-**4.	Starting_structures:** includes the initial structures of our DNMT3A/B – CGC/G/T/A complexes for molecular dynamics simulations.
+**4.	Starting_structures:** includes the initial structures of our DNMT3A/B – CGC/G/T/A complexes for MD simulations.
 
 ## Contact
 
