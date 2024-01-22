@@ -17,9 +17,9 @@ The repository is organized into the following main folders:
 -	***IDF:*** includes analysis scripts and input datas of interaction Dynamics framework in the order **(i)** probability distribution analysis, **(ii)** residue level interaction intensity analysis and **(iii)** atom level cumulative h-bond analysis. Jupyter notebooks in each folder can be used directly.
 -	***supplementary_analysis:*** includes supplementary analysis scripts and input datas as **(i)** DNA major groove width and base-pair step parameters analysis, **(ii)** cumulative ionic interaction analysis, and **(iii)** cumulative atom-atom interactions of each replica simulations. Jupyter notebooks in each folder can be used directly.
 
-***3.	Gromacs_parameter_files:*** includes .mdp files that defines simulation parameters for each energy minimization step and production run of our MD simulations.
+***2.	Gromacs_parameter_files:*** includes .mdp files that defines simulation parameters for each energy minimization step and production run of our MD simulations.
 
-***2. Movies:*** includes movies of molecular dynamics (MD) simulation trajectories of DNMT3A-CGC (cognate) and DNMT3B-CGG (cognate) complexes.
+***3. Movies:*** includes movies of molecular dynamics (MD) simulation trajectories of DNMT3A-CGC (cognate) and DNMT3B-CGG (cognate) complexes.
  	
 ***4.	Starting_structures:*** includes the initial structures of our DNMT3A/B – CGC/G/T/A complexes for MD simulations.
 
