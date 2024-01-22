@@ -1,6 +1,6 @@
 # A dynamic hydrogen bonding network regulates the flanking sequence preference of human de novo DNA methyltransferases
 
-In mammals, de novo DNA methylation is essential to embryonic development, reprogramming, and gene regulation. The de novo DNA methylation is directed by DNMT3A and DNMT3B enzymes and mainly exerted on CpG islands. Over their enzymatic domains, DNMT3A/B proteins share over 90% of sequence similarity. Even so, DNMT3A predominantly methylates the first cytosine in the CGC and CGT motifs, while DNMT3B prefers the CGG and CGA sequences. To elucidate the mechanistic basis of these selective methylation profiles, we performed extensive molecular dynamics simulations of DNMT3A/B enzymes bound to all possible CGX[C/G/T/A] motifs. For each complex, we performed 2 µs long MD simulations under AMBER parmbsc1 force-field. Afterwards, we calculated the differential base-specific hydrogen bonding profiles of the systems.
+In mammals, de novo DNA methylation is essential to embryonic development, reprogramming, and gene regulation. The de novo DNA methylation is directed by DNMT3A and DNMT3B enzymes and mainly exerted on CpG islands. Over their enzymatic domains, DNMT3A/B proteins share over 90% of sequence similarity. Even so, DNMT3A predominantly methylates the first cytosine in the CGC and CGT motifs, while DNMT3B prefers the CGG and CGA sequences. To elucidate the mechanistic basis of these selective methylation profiles, we performed extensive molecular dynamics simulations of DNMT3A/B enzymes bound to all possible CGX[C/G/T/A] motifs. For each complex, we performed 2 µs long molecular dynamics (MD) simulations under AMBER parmbsc1 force-field. Afterwards, we calculated the differential base-specific hydrogen bonding profiles of the systems.
 
 To perform a comparative analysis of our simulation sets, we present an interaction dynamics-focused (IDF) framework, concentrating on the differential analysis of base-specific hydrogen bonding patterns, which we expect to hold the specific partner selective signals **(Figure 1)**.
 
@@ -19,7 +19,7 @@ The repository is organized into the following main folders:
 
 ***2.	Gromacs_parameter_files:*** includes .mdp files that defines simulation parameters for each energy minimization step and production run of our MD simulations.
 
-***3. Movies:*** includes movies of molecular dynamics (MD) simulation trajectories of DNMT3A-CGC (cognate) and DNMT3B-CGG (cognate) complexes.
+***3. Movies:*** includes movies of MD simulation trajectories of DNMT3A-CGC (cognate) and DNMT3B-CGG (cognate) complexes.
  	
 ***4.	Starting_structures:*** includes the initial structures of our DNMT3A/B – CGC/G/T/A complexes for MD simulations.
 
