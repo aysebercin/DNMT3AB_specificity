@@ -13,9 +13,9 @@ To perform a comparative analysis of our simulation sets, we present an interact
 
 The repository is organized into the following main folders:
 
-***1.	Aalysis_scripts:*** This folder contains two subfolders:
--	IDF: includes analysis scripts and input datas of interaction Dynamics framework in the order **(i)** probability distribution analysis, **(ii)** residue level interaction intensity analysis and **(iii)** atom level cumulative h-bond analysis. Jupyter notebooks in each folder can be used directly.
- -	Other_analysis: includes supplementary analysis scripts and input datas as **(i)** DNA major groove width and base-pair step parameters analysis, **(ii)** cumulative ionic interaction analysis, and **(iii)** cumulative atom-atom interactions of each replica simulations. Jupyter notebooks in each folder can be used directly.
+***1.	Analysis_scripts:*** This folder contains two subfolders:
+***-	IDF:*** includes analysis scripts and input datas of interaction Dynamics framework in the order **(i)** probability distribution analysis, **(ii)** residue level interaction intensity analysis and **(iii)** atom level cumulative h-bond analysis. Jupyter notebooks in each folder can be used directly.
+ ***-	supplementary_analysis:*** includes supplementary analysis scripts and input datas as **(i)** DNA major groove width and base-pair step parameters analysis, **(ii)** cumulative ionic interaction analysis, and **(iii)** cumulative atom-atom interactions of each replica simulations. Jupyter notebooks in each folder can be used directly.
 
 ***3.	Gromacs_parameter_files:*** includes .mdp files that defines simulation parameters for each energy minimization step and production run of our MD simulations.
 
