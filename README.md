@@ -23,7 +23,12 @@ The repository is organized into the following main folders:
  	
 **4.	Starting_structures:** includes the initial structures of our DNMT3A/B – CGC/G/T/A complexes for molecular dynamics simulations.
 
+## Contact
 
+If you have any questions related to our repository, please contact us:
+
+Ayşe Berçin Barlas: aysebercin.barlas@ibg.edu.tr
+Ezgi Karaca: ezgi.karaca@ibg.edu.tr
 
 
 
