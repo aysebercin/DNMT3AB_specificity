@@ -1,0 +1,2 @@
+itype chain_a chain_b resname_a resid_b Type pairwise pair_freq Strand
+hbond A C Arg836 (+1) 3A:CGT Arg836-(+1) NaN NaN
