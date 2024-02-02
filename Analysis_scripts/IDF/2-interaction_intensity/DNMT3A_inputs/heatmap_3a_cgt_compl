@@ -1,2 +1,0 @@
-itype chain_a chain_b resname_a resname_b Type pairwise pair_freq pair_freq_wo_flip
-hbond A B Arg836 (+2') 3A:CGT Arg836-(-1') NaN NaN
