@@ -26,6 +26,9 @@ The repository is organized into the following main folders:
  	
 ***4.	Starting_structures:*** includes the initial structures of our DNMT3A/B – CGC/G/T/A complexes for MD simulations.
 
+## IMPORTANT NOTE:
+At the beginning of the study, we started residue numbering from 1 to allow for direct sequence-based comparison between DNMT3A and DNMT3B constructs. For clarity and consistency with external references, we later adjusted the numbering to match UniProt annotations by adding 629 for DNMT3A and 570 for DNMT3B, and we use these UniProt-based residue numbers throughout the manuscript.
+
 ## Contact
 
 If you have any questions related to our repository, please contact us:
