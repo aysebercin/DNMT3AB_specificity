@@ -1,0 +1,8 @@
+itype resname_a resid_b Type pairwise pair_freq
+hydrophobic Ile715 (-1) CGT Ile715-(-1) 1394
+hydrophobic Val716 (-1) CGT Val716-(-1) 4015
+hydrophobic Arg831 (-2) CGT Arg831-(-2) 1153
+hydrophobic Thr832 (-1) CGT Thr832-(-1) 1510
+hydrophobic Lys844 (-2) CGT Lys844-(-2) 2011
+hydrophobic Lys844 (-3) CGT Lys844-(-3) 1225
+hydrophobic Thr834 (-1) CGT Thr834-(-1) 2046

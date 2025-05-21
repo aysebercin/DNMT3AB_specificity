@@ -1,0 +1,4 @@
+itype resname_a resid_b Type pairwise pair_freq
+hydrophobic Ile715 (-2') CGA Ile715-(-2') 1656
+hydrophobic Ile715 (-3') CGA Ile715-(-3') 343
+hydrophobic Val763 (-3') CGA Val763-(-3') NaN

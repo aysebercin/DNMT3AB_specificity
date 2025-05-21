@@ -1,0 +1,2 @@
+itype resname_a resid_b Type pairwise pair_freq
+hbond Arg720 (-1') CGG Arg720-(-1') 2364

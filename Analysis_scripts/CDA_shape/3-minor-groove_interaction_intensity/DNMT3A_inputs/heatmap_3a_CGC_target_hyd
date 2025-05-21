@@ -1,0 +1,8 @@
+itype resname_a resid_b Type pairwise pair_freq
+hydrophobic Val716 (-1) CGC Val716-(-1) 3439
+hydrophobic Thr832 (-1) CGC Thr832-(-1) 849
+hydrophobic Thr834 (-1) CGC Thr834-(-1) 2179
+hydrophobic Lys844 (-3) CGC Lys844-(-3) 872
+hydrophobic Ala760 (-1) CGC Ala760-(-1) 682
+hydrophobic Arg831 (-2) CGC Arg831-(-2) 376
+hydrophobic Lys844 (-2) CGC Lys844-(-2) 987
