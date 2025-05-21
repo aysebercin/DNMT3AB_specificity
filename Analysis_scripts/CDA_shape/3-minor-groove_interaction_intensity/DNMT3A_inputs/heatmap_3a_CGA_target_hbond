@@ -1,0 +1,2 @@
+itype resname_a resid_b Type pairwise pair_freq
+hbond Lys844 (-2) CGA Lys844-(-2) 433

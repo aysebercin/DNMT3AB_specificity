@@ -1,0 +1,4 @@
+itype resname_a resid_b Type pairwise pair_freq
+hbond Arg661 (-2') CGC Arg661-(-2') 538
+hbond Arg661 (-1') CGC Arg661-(-1') 3591
+hbond Asn656 (-2') CGC Asn656-(-2') 2776

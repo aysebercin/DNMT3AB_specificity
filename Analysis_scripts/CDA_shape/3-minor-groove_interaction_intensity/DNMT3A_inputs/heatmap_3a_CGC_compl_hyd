@@ -1,0 +1,4 @@
+itype resname_a resid_b Type pairwise pair_freq
+hydrophobic Ile715 (-2') CGC Ile715-(-2') 1956
+hydrophobic Val763 (-3') CGC Val763-(-3') 2180
+hydrophobic Ile715 (-3') CGC Ile715-(-3') 1048

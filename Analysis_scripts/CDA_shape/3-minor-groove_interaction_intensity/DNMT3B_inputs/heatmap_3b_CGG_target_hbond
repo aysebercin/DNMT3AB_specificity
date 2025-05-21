@@ -1,0 +1,3 @@
+itype resname_a resid_b Type pairwise pair_freq
+hbond Asn656 (-1) CGG Asn656-(-1) 492
+hbond Lys785 (-1) CGG Lys785-(-1) NaN
