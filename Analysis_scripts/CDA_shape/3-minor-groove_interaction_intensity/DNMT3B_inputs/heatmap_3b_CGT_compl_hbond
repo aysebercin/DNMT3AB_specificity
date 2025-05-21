@@ -1,4 +1,0 @@
-itype resname_a resid_b Type pairwise pair_freq
-hbond Asn656 (-2') CGT Asn656-(-2') 2325
-hbond Arg661 (-1') CGT Arg661-(-1') 3904
-hbond Arg661 (-2') CGT Arg661-(-2') 778

@@ -1,8 +1,0 @@
-itype resname_a resid_b Type pairwise pair_freq
-hydrophobic Val657 (-1) CGT Val657-(-1) 3681
-hydrophobic Thr775 (-1) CGT Thr775-(-1) 1595
-hydrophobic Lys785 (-2) CGT Lys785-(-2) 2132
-hydrophobic Thr773 (-1) CGT Thr773-(-1) 3126
-hydrophobic Lys785 (-3) CGT Lys785-(-3) 1040
-hydrophobic Gln772 (-2) CGT Gln772-(-2) 673
-hydrophobic Asn656 (-1) CGT Asn656-(-1) 672
